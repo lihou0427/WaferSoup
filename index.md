@@ -1,5 +1,5 @@
 ### Welcome to:
-## Wafer Visualization - WaferViz
+## Wafer Visualization app - WaferViz
 
 Download [WaferViz5.5](https://github.com/lihou0427/hot-ice/blob/main/WaferViz_5.5.exe)
 
