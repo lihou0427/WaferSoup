@@ -5,12 +5,9 @@ Download [WaferViz5.5](https://github.com/lihou0427/hot-ice/blob/main/WaferViz_5
 
 
 - WaferViz is a license free software intended for semiconductor engineering community.
-- As a process engineer the author found a free plotting app would be useful for converting raw data to presentable graghs. 
 - Curently major metroloty tool manufactuers (KLA, Applied Materials, NenoMetrics etc) have their own platting programs embaded in their tools while some other apps used arround either license restricted or not open to general community.
+- As a process engineer the author found a free plotting app would be useful for converting raw data to presentable graghs especially for engineers in fabs where the plotting program in the tools is not easily accessable. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
