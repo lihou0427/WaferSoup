@@ -5,8 +5,8 @@ Download [WaferViz5.5](https://github.com/lihou0427/hot-ice/blob/main/WaferViz_5
 
 
 - WaferViz is an open source software intended for semiconductor engineering community.
-- Curently major metroloty tool vendors have their own platting programs embaded in their tools while some other apps have being used arround either license restricted or unavailable to general public.
-- As a process engineer the author found a free plotting app would be useful for converting raw data to presentable graphs especially for engineers in fabs where the plotting program is not easily accessable. 
+- Curently major metroloty tool vendors have their own platting programs embaded in their tools while some other apps have being used arround are either license restricted or unavailable to general public.
+- As a process engineer the author found there is a need of a free plotting app for converting raw data to presentable graphs especially for engineers in fabs where the plotting program is not readily accessable. 
 
 
 ```markdown
