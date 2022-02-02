@@ -1,3 +1,4 @@
+Welcome to:
 ## Wafer Visualization App - WaferViz
 
 You can use the [editor on GitHub](https://github.com/lihou0427/hot-ice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
